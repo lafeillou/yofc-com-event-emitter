@@ -1,0 +1,1 @@
+module.exports = require('./event-emitter/4.2.11/EventEmitter');
