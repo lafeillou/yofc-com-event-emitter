@@ -1,1 +1,1 @@
-module.exports = require('./event-emitter/4.2.11/EventEmitter');
+module.exports = require('./angular-tiny-eventemitter/1.2.0/angular-tiny-eventemitter');
